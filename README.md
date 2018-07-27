@@ -2,8 +2,8 @@
 The Generic Data Structures Library(libds-2.2)
 
 
- LibDS, Version 1.0, Released Dec 2001
- LibDS, Version 2.0, Released Jan 2002
+ 	LibDS, Version 1.0, Released Dec 2001
+ 	LibDS, Version 2.0, Released Jan 2002
 	LibDS, Version 2.1, Released Oct 2002
 	LibDS, Version 2.2, Released Feb 2002
 
